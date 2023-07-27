@@ -20,19 +20,6 @@ nav_order: 5
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/IMG_0005.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/IMG_0031.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-</div>
-<div class="caption">
-    Trail riding in Hulun Buir Grassland, Inner Mongolia.
-</div> 
-
-
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/FN1A9055-Pano1-small.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
