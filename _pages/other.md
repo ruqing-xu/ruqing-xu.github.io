@@ -36,6 +36,6 @@ nav_order: 5
     </div>
 </div>
 <div class="caption">
-    Summer Milky Ways in Yunnan, China and Ithaca, New York.
+    The summer Milky Way in Yunnan, China and Ithaca, New York.
 </div>
 
