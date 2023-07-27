@@ -6,7 +6,7 @@ subtitle: 许 茹清 #<a href='https://economics.cornell.edu/'>Department of Eco
 
 profile:
   align: right
-  image: IMG_2356.jpg
+  image: IMG_2356.JPG
   image_circular: false # crops the image to make it circular
   address: >
 

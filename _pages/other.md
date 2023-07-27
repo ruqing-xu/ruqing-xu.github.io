@@ -8,10 +8,10 @@ nav_order: 5
 ---
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/DSC00500.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/DSC00500.JPEG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/DSC00675.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/DSC00675.JPEG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
@@ -20,7 +20,7 @@ nav_order: 5
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/IMG_0005.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/IMG_0005.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/IMG_0031.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
@@ -42,10 +42,10 @@ nav_order: 5
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/IMG_1354.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/IMG_1354.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/IMG_9686.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/IMG_9686.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
