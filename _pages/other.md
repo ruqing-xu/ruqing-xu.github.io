@@ -24,7 +24,7 @@ nav_order: 5
     </div>
 </div>
 <div class="caption">
-    The Milky Way Arch over a village in the Xiaoliang Mountain, Yunnan province.
+    The Milky Way Arch over a village in Xiaoliang Mountain, Yunnan province.
 </div>
 
 <div class="row mt-3">
