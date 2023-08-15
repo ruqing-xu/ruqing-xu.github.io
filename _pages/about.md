@@ -16,9 +16,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am Ruqing Xu (pronounced as "Rou-tine" with a "ching"). I am a third-year Ph.D. student in the Department of Economics at Cornell University. 
+I am Ruqing Xu (Ru is pronounced like ``rou'' in ``routine'' and qing like ``ching''). I am a third-year Ph.D. student in the Department of Economics at Cornell University. 
 
-My research is at the intersection of Economics and Computer Science. In particular, I study the role of information in decision-making and the best way of designing information to achieve socially optimal outcomes. I am a member of Cornell's initiative on [Artificial Intelligence, Policy, and Practice](https://aipp.cis.cornell.edu/) (AIPP).
+My research is at the intersection of Economics and Computer Science. In particular, I study the role of information in decision-making, and how to design systems that incorporate both human and algorithmic assessments. I am a member of Cornell's initiative on [Artificial Intelligence, Policy, and Practice](https://aipp.cis.cornell.edu/) (AIPP).
 
 Prior to Cornell, I completed my undergraduate degree at the University of Hong Kong with First Class Honours in Comparative Literature and Economics. I also spent a wonderful year at Yale University via the [Y-VISP](https://yvisp.yale.edu/) program. 
 
