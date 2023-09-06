@@ -26,7 +26,7 @@ My real world interests include horseback riding and astrophotography. View some
 
 My CV is available [here](/cv/). You can reach me at rx24@cornell.edu.
 
-How to pronounce my name? <em>Roo-ching shee</em>.
+How to pronounce my name? <em>Roo-ching Shee</em>.
 
 <!-- 
 I am Ruqing Xu (Ru is pronounced like "rou" in "routine" and qing like "ching"). 
