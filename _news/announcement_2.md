@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented my working paper [Persuasion, Delegation, and Private Information](/publications/) at AIPP.
+Presenting my working paper [Persuasion, Delegation, and Private Information](/publications/) at AIPP.
