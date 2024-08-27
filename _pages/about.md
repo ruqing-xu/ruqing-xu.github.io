@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: 许 茹清 #<a href='https://economics.cornell.edu/'>Department of Economics</a>, Cornell University. 
+subtitle: 许茹清 #<a href='https://economics.cornell.edu/'>Department of Economics</a>, Cornell University. 
 
 profile:
   align: right
@@ -16,15 +16,15 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a third-year Ph.D. student in the Department of Economics at Cornell University. My CV is available [here](/cv/). You can reach me at <em>rx24@cornell.edu</em>.
+I am a fourth-year Ph.D. student in Economics at Cornell University. My CV is available [here](/cv/). You can reach me at <em>rx24@cornell.edu</em>.
 
-My research is at the intersection of Economics and Computer Science. In particular, I study the role of information in decision-making, and how to design systems that incorporate both human and algorithmic assessments. I am a member of Cornell's initiative on [Artificial Intelligence, Policy, and Practice](https://aipp.cis.cornell.edu/) (AIPP).
+My research is at the intersection of Economics and Computer Science. In particular, I study the role of information in decision-making, and how to design systems that incorporate both human and algorithmic assessments. I am a member of Cornell's initiative on [Artificial Intelligence, Policy, and Practice](https://aipp.cis.cornell.edu/) (AIPP). In Summer 2024, I interned at Microsoft Research New England with [Nicole Immorlica](https://immorlica.com/) and [Brendan Lucier](https://www.microsoft.com/en-us/research/people/brlucier/).
 
 Prior to Cornell, I completed my undergraduate degree at the University of Hong Kong with First Class Honours in Comparative Literature and Economics. I also spent a wonderful year at Yale University via the [Y-VISP](https://yvisp.yale.edu/) program. 
 
 My real world interests include horseback riding and astrophotography. View some of my works [here](/life/). 
 
-How to pronounce my name? <em>Roo-ching Shee</em>.
+How to pronounce my name? [Audio](https://translate.google.com/?sl=auto&tl=zh-CN&text=%E8%8C%B9%E6%B8%85%20%E8%AE%B8&op=translate).
 
 <!-- 
 I am Ruqing Xu (Ru is pronounced like "rou" in "routine" and qing like "ching"). 
