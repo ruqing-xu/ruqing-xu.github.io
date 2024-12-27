@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.4)  19 NOV 2024 19:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.4)  27 DEC 2024 15:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -330,14 +330,14 @@ Overfull \hbox (30.0pt too wide) in paragraph at lines 52--52
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 122--130
+Underfull \hbox (badness 10000) in paragraph at lines 127--135
 
  []
 
 [1
 
 {/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (18.85835pt too wide) in paragraph at lines 176--188
+Overfull \hbox (18.85835pt too wide) in paragraph at lines 181--193
 [][] [] 
  []
 
@@ -356,9 +356,9 @@ Here is how much of TeX's memory you used:
  31975 multiletter control sequences out of 15000+600000
  562067 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,5n,79p,1060b,510s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,5n,79p,1060b,512s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on CV_Ruqing_Xu.pdf (2 pages, 85125 bytes).
+Output written on CV_Ruqing_Xu.pdf (2 pages, 90980 bytes).
 PDF statistics:
  50 PDF objects out of 1000 (max. 8388607)
  33 compressed objects within 1 object stream
