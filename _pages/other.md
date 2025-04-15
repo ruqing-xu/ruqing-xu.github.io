@@ -2,7 +2,7 @@
 layout: page
 permalink: /life/
 title: Personal
-description: My life as an equestrian and an astrophotographer. 
+description: My past life as an equestrian and an astrophotographer. 
 nav: true
 nav_order: 5
 ---
