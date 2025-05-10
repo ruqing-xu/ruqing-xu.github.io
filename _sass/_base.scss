@@ -104,12 +104,6 @@ blockquote {
     }
   }
 
-  /**
- * Source: https://maruan.alshedivat.com/assets/css/main.css
- */
-
-  /* Modified --global-bg-color (used in Maruan's site) to --global-card-bg-color. */
-  /* If you use --global-bg-color, you'll need to change some other CSS. */
   .list-group-item {
     background-color: var(--global-card-bg-color); border-color: var(--global-divider-color);
   }
