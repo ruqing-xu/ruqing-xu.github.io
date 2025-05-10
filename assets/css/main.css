@@ -198,6 +198,11 @@ blockquote {
 
 .card {
   background-color: var(--global-card-bg-color);
+  /**
+  * Source: https://maruan.alshedivat.com/assets/css/main.css
+  */
+  /* Modified --global-bg-color (used in Maruan's site) to --global-card-bg-color. */
+  /* If you use --global-bg-color, you'll need to change some other CSS. */
 }
 .card img {
   width: 100%;
@@ -212,6 +217,15 @@ blockquote {
 .card .card-item .row {
   display: flex;
   align-items: center;
+}
+.card .list-group-item {
+  background-color: var(--global-card-bg-color);
+  border-color: var(--global-divider-color);
+}
+.card .badge {
+  background-color: var(--global-theme-color);
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
 
 .citation,
