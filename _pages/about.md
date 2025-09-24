@@ -16,11 +16,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a fourth-year Ph.D. student in Economics at Cornell University. My CV is available [here](/cv/). You can reach me at <em>rx24@cornell.edu</em>.
+I am a fifth year Ph.D. candidate in Economics at Cornell University, with a minor in Computer Science. My CV is available [here](/cv/). You can reach me at <em>rx24@cornell.edu</em>.
 
-My research is at the intersection of Economics and Computer Science. In particular, I study the role of information in decision-making, and how to design systems that incorporate both human and algorithmic assessments. I am a member of Cornell's initiative on [Artificial Intelligence, Policy, and Practice](https://aipp.cis.cornell.edu/) (AIPP). In Summer 2024, I interned at Microsoft Research New England with [Nicole Immorlica](https://immorlica.com/) and [Brendan Lucier](https://www.microsoft.com/en-us/research/people/brlucier/).
+My research is at the intersection of Economics and Computer Science. I study learning and information [empirically](/assets/pdf/rrx_stakes_june2024.pdf) and [theoretically](/assets/pdf/LearningfromMixture.pdf). A theme of my current research is to combine theory and evidence in human-AI collaboration to design algorithms around human biases, see [here](/assets/pdf/delegation_xu.pdf). 
 
-I completed my undergraduate degree at the University of Hong Kong with First Class Honours in Comparative Literature and Economics. I also spent a wonderful year at Yale University via the selective [Y-VISP](https://yvisp.yale.edu/) program. 
+I am a member of Cornell's initiative on [Artificial Intelligence, Policy, and Practice](https://aipp.cis.cornell.edu/) (AIPP). During my Ph.D., I have interned at Microsoft Research New England as a research intern, and at Amazon as an economist.
+
+I obtained my undergraduate degree at the University of Hong Kong with First Class Honours in Comparative Literature and Economics. I also spent a wonderful year at Yale University via the selective [Y-VISP](https://yvisp.yale.edu/) program. 
 
 In a past life, I ride horses and take pictures of stars. View some of my works [here](/life/). 
 
@@ -36,4 +38,9 @@ Write your biography here. Tell the world about yourself. Link to your favorite 
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. 
+
+My research is at the intersection of Economics and Computer Science. In particular, I study the role of information in decision-making, and how to design systems that incorporate both human and algorithmic assessments.
+
+I have interned at Microsoft Research New England with [Nicole Immorlica](https://immorlica.com/) and [Brendan Lucier](https://www.microsoft.com/en-us/research/people/brlucier/).
+-->
