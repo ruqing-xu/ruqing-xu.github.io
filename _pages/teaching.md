@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Materials I prepared as a graduate teaching assistant. Source files are available upon request; just give appropriate credit if you adapt or reuse them.
+description: Materials I prepared as a graduate teaching assistant. Source files are available upon request.
 nav: true
 nav_order: 4
 ---
