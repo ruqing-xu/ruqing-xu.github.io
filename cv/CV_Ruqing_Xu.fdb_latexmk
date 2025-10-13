@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1759768473.59423 "/Users/ruqingxu/Dropbox/Website/cv/CV_Ruqing_Xu.tex" "CV_Ruqing_Xu.pdf" "CV_Ruqing_Xu" 1759768474.03274 0
-  "/Users/ruqingxu/Dropbox/Website/cv/CV_Ruqing_Xu.tex" 1759768473.19034 10060 627cbdf480140dee16e02b4ae7c45ff2 ""
+["pdflatex"] 1760368296.29643 "/Users/ruqingxu/Dropbox/Website/cv/CV_Ruqing_Xu.tex" "CV_Ruqing_Xu.pdf" "CV_Ruqing_Xu" 1760368296.74248 0
+  "/Users/ruqingxu/Dropbox/Website/cv/CV_Ruqing_Xu.tex" 1760368296.09946 10046 7c61a7e1846ecc7420fcedd39aa8d19e ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -78,9 +78,9 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1720117850.76114 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1720117825 8221448 0d97f7e1876eb18ac8dc048d7b8ccae4 ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "CV_Ruqing_Xu.aux" 1759768473.99641 162 87159b23cce7c2b923b11c85495bbd6d "pdflatex"
-  "CV_Ruqing_Xu.out" 1759768473.85865 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "CV_Ruqing_Xu.tex" 1759768473.19034 10060 627cbdf480140dee16e02b4ae7c45ff2 ""
+  "CV_Ruqing_Xu.aux" 1760368296.70519 162 87159b23cce7c2b923b11c85495bbd6d "pdflatex"
+  "CV_Ruqing_Xu.out" 1760368296.56836 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "CV_Ruqing_Xu.tex" 1760368296.09946 10046 7c61a7e1846ecc7420fcedd39aa8d19e ""
   "resume.cls" 1732079814 6214 fdb70ee32ab7e516797c2f6007817568 ""
   (generated)
   "CV_Ruqing_Xu.aux"
