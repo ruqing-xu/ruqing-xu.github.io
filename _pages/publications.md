@@ -2,6 +2,7 @@
 layout: page
 permalink: /publications/
 title: Papers
+description: Unless otherwise specified, author order is alphabetical.
 years: []
 nav: true
 nav_order: 1
