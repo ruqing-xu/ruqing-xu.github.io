@@ -22,7 +22,7 @@ My research is at the intersection of Economics and Computer Science. I study le
 
 I am a member of Cornell's initiative on [Artificial Intelligence, Policy, and Practice](https://aipp.cis.cornell.edu/) (AIPP). During my Ph.D., I have interned at Microsoft Research New England as a research intern, and at Amazon as an economist.
 
-I obtained my undergraduate degree at the University of Hong Kong with First Class Honours in Comparative Literature and Economics. I also spent a wonderful year at Yale University via the selective [Y-VISP](https://yvisp.yale.edu/) program. 
+I obtained my undergraduate degree from the University of Hong Kong with First Class Honours in Comparative Literature and Economics. I also spent a wonderful year at Yale University via the selective [Y-VISP](https://yvisp.yale.edu/) program. 
 
 In a past life, I ride horses and take pictures of stars. View some of my works [here](/life/). 
 
