@@ -16,17 +16,15 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a fifth year Ph.D. candidate in Economics at Cornell University, with a minor in Computer Science. My CV is available [here](/cv/). You can reach me at <em>rx24@cornell.edu</em>.
+I am an economist at Amazon. I received my Ph.D. in Economics from Cornell University in 2025, with a minor in Computer Science. My CV is available [here](/cv/). You can reach me at <em>rx24@cornell.edu</em>.
 
-My research is at the intersection of Economics and Computer Science. I study learning and information [empirically](/assets/pdf/rrx_stakes_june2024.pdf) and [theoretically](/assets/pdf/LearningfromMixture.pdf). A theme of my current research is to combine theory and evidence in human-AI collaboration to design algorithms around human biases, see [here](/assets/pdf/delegation_xu.pdf). 
+My research is at the intersection of Economics and Computer Science. I study learning and information [empirically](/assets/pdf/rrx_stakes_june2024.pdf) and [theoretically](/assets/pdf/LearningfromMixture.pdf). A theme of my research is to combine theory and evidence in human-AI collaboration to design algorithms around human biases, see [here](/assets/pdf/delegation_xu.pdf). I interned at Microsoft Research New England and Amazon. 
 
-I am a member of Cornell's initiative on [Artificial Intelligence, Policy, and Practice](https://aipp.cis.cornell.edu/) (AIPP). During my Ph.D., I have interned at Microsoft Research New England as a research intern, and at Amazon as an economist.
+To better prepare for a career in Economics, I obtained a B.A. in Comparative Literature. I studied at the University of Hong Kong and spent a year at Yale University.
 
-I obtained my undergraduate degree from the University of Hong Kong with First Class Honours in Comparative Literature and Economics. I also spent a wonderful year at Yale University via the selective [Y-VISP](https://yvisp.yale.edu/) program. 
+In a past life, I rode horses and took pictures of stars. View some of my works [here](/life/). 
 
-In a past life, I ride horses and take pictures of stars. View some of my works [here](/life/). 
-
-How to pronounce my name? [Audio](https://translate.google.com/?sl=auto&tl=zh-CN&text=%E8%8C%B9%E6%B8%85%20%E8%AE%B8&op=translate).
+<!-- How to pronounce my name? [Audio](https://translate.google.com/?sl=auto&tl=zh-CN&text=%E8%8C%B9%E6%B8%85%20%E8%AE%B8&op=translate). -->
 
 <!-- 
 I am Ruqing Xu (Ru is pronounced like "rou" in "routine" and qing like "ching"). 

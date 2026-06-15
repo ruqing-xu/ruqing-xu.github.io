@@ -4,5 +4,6 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 4
-cv_pdf: cv.pdf
+published: true
+cv_pdf: cv_ruqing_xu_industry.pdf
 ---
