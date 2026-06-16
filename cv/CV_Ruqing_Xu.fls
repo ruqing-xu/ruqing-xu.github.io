@@ -2,7 +2,7 @@ PWD /Users/ruqingxu/Dropbox/Website/cv
 INPUT /usr/local/texlive/2024/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/ruqingxu/Dropbox/Website/cv/CV_Ruqing_Xu.tex
+INPUT CV_Ruqing_Xu.tex
 OUTPUT CV_Ruqing_Xu.log
 INPUT ./resume.cls
 INPUT resume.cls
