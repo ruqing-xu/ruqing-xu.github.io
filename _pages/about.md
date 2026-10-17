@@ -18,7 +18,7 @@ social: false  # includes social icons at the bottom of the page
 
 I am an economist at Amazon. I received my Ph.D. in Economics from Cornell University in 2025, with a minor in Computer Science. My CV is available [here](/cv/). You can reach me at <em>rx24@cornell.edu</em>.
 
-My research is at the intersection of Economics and Computer Science. I study learning and information [empirically](/assets/pdf/rrx_stakes_june2024.pdf) and [theoretically](/assets/pdf/LearningfromMixture.pdf). A theme of my research is to combine theory and evidence in human-AI collaboration to design algorithms around human biases, see [here](/assets/pdf/delegation_xu.pdf). I interned at Microsoft Research New England and Amazon. 
+My research is at the intersection of Economics and Computer Science. I study learning and information [empirically](https://www.nber.org/papers/w32608) and [theoretically](https://arxiv.org/abs/2609.33214). A theme of my research is to combine theory and evidence in human-AI collaboration to design algorithms around human biases, see [here](https://arxiv.org/abs/2402.09384). I interned at Microsoft Research New England and Amazon. 
 
 To better prepare for a career in Economics, I obtained a B.A. in Comparative Literature. I studied at the University of Hong Kong and spent a year at Yale University.
 

@@ -32,7 +32,25 @@
 \usepackage{hyperref}
 \hypersetup{colorlinks=true, urlcolor=blue}
 
-\usepackage[left=0.5in,top=0.5in,right=0.5in,bottom=0.75in]{geometry} % Document margins
+\usepackage[left=0.4in,top=0.4in,right=0.4in,bottom=0.4in,footskip=0.2in]{geometry} % Document margins
+
+% Tighter spacing before and after section headings (overrides resume.cls)
+\def\sectionskip{\vspace{2pt}}
+\def\sectionlineskip{\vspace{2pt}}
+\renewenvironment{rSection}[1]{%
+  \sectionskip
+  \MakeUppercase{\bf #1}%
+  \sectionlineskip
+  \hrule
+  \begin{list}{}{%
+    \setlength{\leftmargin}{1.5em}%
+    \setlength{\topsep}{3pt}%
+    \setlength{\partopsep}{0pt}%
+  }%
+  \item[]
+}{%
+  \end{list}%
+}
 \usepackage{comment}
 \newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}}
 \newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
@@ -52,37 +70,40 @@
 
 \begin{document}
 
+\begin{rSection}{Summary}
+Ph.D. economist trained in causal inference, game theory, and economics of AI. Reframes business problems as scientific problems and answers them with theory and theory-informed measurement. Designs incentives that align teams and customer behavior with organizational goals. Scopes ambiguous problems directly with business and product partners and carries them from ideation to adoption. Writes technical documents that make complex ideas accessible to executives.
+
+{\bf Skills:} Game theory, mechanism design, causal inference, survey calibration; Python, R, SQL, Stata.
+\end{rSection}
+
 \begin{rSection}{Work Experience}
   {\bf Amazon, Seattle, WA} \hfill {December 2025 -- Present} \\
-  Economist \vspace{-0.5em}
+  Economist, Selling Partner Support \vspace{-0.5em}
     \begin{itemize}[label={\tiny\raisebox{1ex}{\textbullet}}]
     \itemsep-0.5em 
-    \item Lead a survey-based framework to aggregate seller preferences at scale and inform business priorities.
-    \item Translate economic theory into improved efficiency in cross-team goal setting. 
+    \item Designed and launched worldwide the first scalable mechanism to elicit sellers' preferences over support issues, using nonresponse calibration and preference aggregation; results now inform organizational goals that direct defect elimination investment toward the issues that cause sellers the greatest pain.
+    \item Apply economic theory, including principal-agent models and marginal-cost analysis, to ensure aligned incentives in cross-org goal setting and planning.
   \end{itemize} 
 
   {\bf Amazon, Seattle, WA} \hfill {May 2025 -- August 2025} \\
-  Economist Intern \vspace{-0.5em}
+  Economist Intern, Selling Partner Support \vspace{-0.5em}
     \begin{itemize}[label={\tiny\raisebox{1ex}{\textbullet}}]
     \itemsep-0.5em 
-    \item Estimated downstream impacts of sellers' use of third-party services using difference-in-differences, matching, and event studies.
-    \item Communicated causal findings to business leadership to guide decisions.
+    \item Estimated downstream impacts of sellers' revenue-enhancing actions via DiD and matching; informed leadership's mental model.
   \end{itemize} 
 
   {\bf Microsoft Research New England, Boston, MA} \hfill {May 2024 -- August 2024} \\
   Research Intern, EconCS Group \vspace{-0.5em}
   \begin{itemize}[label={\tiny\raisebox{1ex}{\textbullet}}]
     \itemsep-0.5em 
-    \item Modeled learning from LLM summaries versus raw data for human-AI systems.
-    \item Built simulations to compare learning outcomes across information environments.
+    \item Modeled learning from LLM summaries versus raw data and quantified the rate at which more observations can compensate for lost context in summarization; built supporting simulations.
   \end{itemize} 
 
   {\bf Cornell University, Ithaca, NY} \hfill {May 2022 -- August 2023} \\
   Research Assistant for Prof. Evan Riehl \vspace{-0.5em}
   \begin{itemize}[label={\tiny\raisebox{1ex}{\textbullet}}]
     \itemsep-0.5em 
-    \item Analyzed 2M+ administrative records on education and labor-market outcomes in Brazil.
-    \item Estimated impacts of high-stakes testing on inequality and score informativeness.
+    \item Applied staggered DiD to 2M+ individual-level administrative records and show that high-stakes testing widened socioeconomic inequality in scores but made scores more predictive of college outcomes.
   \end{itemize} 
   
 \end{rSection}
@@ -92,14 +113,12 @@
 %----------------------------------------------------------------------------------------
 
 \begin{rSection}{Education}
-{\bf Cornell University}, Ph.D. in Economics, Ph.D. minor in Computer Science \hfill {2021 - 2025} 
+{\bf Cornell University}, Ph.D. in Economics, Ph.D. minor in Computer Science \hfill {2021 -- 2025} \\
 % \hfill {GPA: 4.0/4.3} 
 % \\ Committee: Collin Raymond, \'{E}va Tardos, Marco Battaglini, J\"{o}rg Stoye, Jon Kleinberg\hfill
-
-{\bf Yale University}, Visiting Student \hfill {2019 - 2020} 
+{\bf Yale University}, Visiting Student \hfill {2019 -- 2020} \\
 % \hfill {GPA: 3.85/4.0}
-
-{\bf The University of Hong Kong}, B.A. in Comparative Literature and Economics  \hfill {2017 - 2021} 
+{\bf The University of Hong Kong}, B.A. in Comparative Literature and Economics  \hfill {2017 -- 2021}
 % \hfill {GPA: 4.06/4.3}
 \\ \emph{First Class Honours, Dean's List}
 
@@ -111,19 +130,21 @@
 % \item \textbf{Secondary fields:} Human-AI Collaboration, Applied Microeconomics
 % \end{rSection}
 
-%	PUBLICATION SECTION
+%	SELECTED RESEARCH SECTION
 %----------------------------------------------------------------------------------------
-\begin{rSection}{Working papers}
 
-  \href{https://ruqing-xu.github.io/assets/pdf/delegation_xu.pdf}{Persuasion, Delegation, and Private Information in Algorithm-Assisted Decisions.} \underline{Ruqing Xu}. 2024. \\
- \emph{Presented at the 2024 Econometric Society Interdisciplinary Frontiers Conference.}
+\begin{rSection}{Academic Research and Service}
 
-\href{https://ruqing-xu.github.io/assets/pdf/LearningfromMixture.pdf}{Learning from a Mixture of Information Sources.} Nicole Immorlica, Brendan Lucier, Clayton Thomas, and \underline{Ruqing Xu}. 2025.\\
-\emph{Presented at the 2025 Marketplace Innovation Workshop (MIW).}
+\href{https://arxiv.org/abs/2609.33214}{Learning from a Mixture of Information Sources.} Nicole Immorlica, Brendan Lucier, Yaroslav Mukhin, Clayton Thomas, and \underline{Ruqing Xu}. 2026.
+\emph{Conference on Web and Internet Economics (WINE'26), extended abstract.}
 
-\href{https://ruqing-xu.github.io/assets/pdf/rrx_stakes_june2024.pdf}{Stakes and Signals: An Empirical Investigation of Muddled
-Information in Standardized Testing.} Germán Reyes, Evan Riehl, and \underline{Ruqing Xu}. 2024. \\
-\emph{Presented at the 2024 NBER Summer Institute Personnel Economics.}
+\href{https://arxiv.org/abs/2402.09384}{Persuasion, Delegation, and Private Information in Algorithm-Assisted Decisions.} \underline{Ruqing Xu}. 2024. \emph{Presented at the 2024 Econometric Society Interdisciplinary Frontiers Conference.}
+
+\href{https://www.nber.org/papers/w32608}{Stakes and Signals: An Empirical Investigation of Muddled
+Information in Standardized Testing.} Germán Reyes, Evan Riehl, and \underline{Ruqing Xu}. 2024.
+\emph{National Bureau of Economic Research Working Paper.}
+
+{\bf Service:} Referee for \emph{AER: Insights}, \emph{ACM EC}, \emph{JEBO}, and \emph{AMLC}. Organizer, \emph{EC'25 Workshop on Human-Algorithm Collaboration}.
 \end{rSection}
 
 % \begin{rSection}{Work in Progress}
@@ -210,12 +231,6 @@ Information in Standardized Testing.} Germán Reyes, Evan Riehl, and \underline{
 
 % REFEREE
 %----------------------------------------------------------------------------------------
-\begin{rSection}{Professional services}
-Referee Services\\
-\-\hspace{1em}\emph{American Economics Review: Insights, ACM Conference on Economics and Computation} \\
-Workshop Organization \\
-\-\hspace{1em}\emph{Workshop on Human-Algorithm Collaboration at EC'25}
-\end{rSection}
 
 %----------------------------------------------------------------------------------------
 
